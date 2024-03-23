@@ -1,6 +1,7 @@
 # meow
 
 fixed KDE 1 binaries for Arch Linux (or arch-based distros)
+
 it is recommended to install this on Arch Linux without any desktop environments or greeters installed
 
 ### how to install
