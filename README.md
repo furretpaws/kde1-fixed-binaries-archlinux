@@ -20,4 +20,4 @@ exec startkde
 
 once you did all of this, type `startx` to start KDE 1
 
-shoutout to [@RandomVee (Cookiaria](https://github.com/RandomVee?tab=repositories) for testing this out on a VM ! !
+shoutout to [@RandomVee (Cookiaria)](https://github.com/RandomVee?tab=repositories) for testing this out on a VM ! !
