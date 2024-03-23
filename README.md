@@ -7,6 +7,7 @@ it is recommended to install this on Arch Linux without any desktop environments
 - install qt1 first, both files
 - then install kdelibs, both files
 - and then just install kdebase, both files as well
+
 **use `pacman -U (file)` to install them**
 
 after all of that is done, make a new .xinitrc file and add this in
